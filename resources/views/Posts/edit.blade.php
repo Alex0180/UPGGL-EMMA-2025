@@ -11,7 +11,7 @@
 </head>
 <body class="bg-gray-100 text-gray-800 flex items-center justify-center min-h-screen">
     <div class="text-center bg-white p-10 rounded-2xl shadow-lg">
-        <h1 class="text-4xl font-bold mb-4 text-blue-600">Página Laravel</h1>
+        <h1 class="text-4xl font-bold mb-4 text-blue-600">Edicion de Postl</h1>
         <h2 class="text-lg">Esta es una página de ejemplo con diseño mejorado</h2>
     </div>
 </body>

@@ -65,7 +65,8 @@ return [
     |
     */
 
-    'timezone' => env('APP_TIMEZONE', 'UTC'),
+    'timezone' => 'America/Managua', // o 'America/Mexico_City', según tu país
+
 
     /*
     |--------------------------------------------------------------------------
